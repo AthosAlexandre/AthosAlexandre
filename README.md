@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/AthosAlexandre/AthosAlexandre">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthosAlexandre&_icons=true&theme=dracula_layout=compact">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthosAlexandre&_icons=true&layout=compact">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AthosAlexandre&show_icons=true&theme=dracula">
 </div> 
 
