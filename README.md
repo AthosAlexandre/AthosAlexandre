@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Athos Iury Alexandre 🤓
 
 <div>
-  <a href="https://github.com/AthosAlexandre/AthosAlexandre">
+  <a href="https://github.com/AthosAlexandre">
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthosAlexandre&_icons=true&layout=compact">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AthosAlexandre&show_icons=true&theme=dracula">
 </div> 
