@@ -1,7 +1,4 @@
-### Olá eu sou o Athos Iury Alexandre 🤓
-
-
-**AthosAlexandre/AthosAlexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá!! Eu sou o Athos Iury Alexandre 🤓
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Athos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
