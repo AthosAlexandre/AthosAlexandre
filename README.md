@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Java, HTML and CSS...
+- 🌱 I’m currently learning Java, HTML,CSS and VueJs...
 
 
 
