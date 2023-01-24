@@ -3,12 +3,6 @@
 
 **AthosAlexandre/AthosAlexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Java, HTML,CSS and VueJs...
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Athos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Athos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
