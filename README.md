@@ -4,7 +4,7 @@
   <a href="https://github.com/AthosAlexandre">
     
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthosAlexandre&hide_progress=true">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=AthosAlexandre&repo=github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=AthosAlexandre&repo=convoychat">
 </div> 
 
 <div style="display: inline_block" align="center"><br>
