@@ -13,6 +13,7 @@
   <img align="center" alt="Athos-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Athos-VueJs" height="30" width="40" src="https://camo.githubusercontent.com/bd55955f84d6ea390afc5ea84aadbbe6b643ef698bdbb2593bc0fb2246395ae3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667">
 </div>
+  <img align="center" alt="Athos-sql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <hr>
 <div> 
 
