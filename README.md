@@ -12,7 +12,7 @@
   <img align="center" alt="Athos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Athos-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Athos-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Athos-VueJs" height="30" width="40" src="https://icons8.com.br/icon/dzfo6UeXW9h7/vue.js-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications">
+  <img align="center" alt="Athos-VueJs" height="30" width="40" src="[https://icons8.com.br/icon/dzfo6UeXW9h7/vue.js-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications](https://camo.githubusercontent.com/10690433551edcf75e32f594055bc4e618467a471d519660346321ac7d8bbb0e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667)">
    <img align="center" alt="Athos-sql" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
   
   <hr>
